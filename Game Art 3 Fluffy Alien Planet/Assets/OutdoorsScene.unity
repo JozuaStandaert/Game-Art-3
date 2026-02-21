@@ -666,7 +666,7 @@ MonoBehaviour:
     - name: Grass
       layerID: 0
       threshold: 0.825
-    instanceCount: 10456
+    instanceCount: 10750
     index: 0
     type: 0
     renderAsBillboard: 0
@@ -676,7 +676,7 @@ MonoBehaviour:
     alignToGround: 61.5
     positionJitter: 0
     useDensityScaling: 1
-    density: 4.83
+    density: 2.52
     billboard: {fileID: 0}
     mainColor: {r: 1, g: 1, b: 1, a: 1}
     secondaryColor: {r: 1, g: 1, b: 1, a: 1}
@@ -1015,8 +1015,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1823688464}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.32803902, y: 0.13422543, z: -0.047241062, w: -0.93388563}
-  m_LocalPosition: {x: 2.5171561, y: 2.0723784, z: -1.0337831}
+  m_LocalRotation: {x: -0.22483367, y: -0.44998005, z: 0.118168384, w: -0.8561566}
+  m_LocalPosition: {x: 26.930513, y: 4.823841, z: 17.737484}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

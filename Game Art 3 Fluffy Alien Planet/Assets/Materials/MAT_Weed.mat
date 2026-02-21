@@ -238,6 +238,7 @@ Material:
     - _SpecularAAThreshold: 0.2
     - _SpecularOcclusionMode: 1
     - _SrcBlend: 1
+    - _StemHeight: 0.9
     - _StencilRef: 0
     - _StencilRefDepth: 8
     - _StencilRefDistortionVec: 4
@@ -270,6 +271,8 @@ Material:
     - _UseShadowThreshold: 0
     - _Use_Custom_Base_Color: 0
     - _Use_Custom_Base_Color_Texture: 0
+    - _WindSpeed: 0.076
+    - _WindStrength: 0.215
     - _ZTestDepthEqualForOpaque: 3
     - _ZTestGBuffer: 3
     - _ZTestTransparent: 4
